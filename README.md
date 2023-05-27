@@ -1,3 +1,3 @@
-# Challanges con descripcion y solucion.
+# Challanges con descripción y solución.
 
-Cada challenge esta por separado y tiene la descripcion del challenge mas la solucion
+Cada challenge está por separado y tiene la descripción del challenge más la solución
